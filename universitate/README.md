@@ -28,7 +28,6 @@ When the lesson is done both the student and the teacher may rate to each other.
 
 __Universitate__ uses a number of open source projects to work properly:
 
-* [React] - A javascript library for building user interfaces!
 * [Twitter Bootstrap] - Great UI boilerplate for modern web apps.
 * [Ruby] - A dynamic open source programming language.
 * [RoR] - Framework to build a modern web application.
